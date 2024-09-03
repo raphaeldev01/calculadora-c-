@@ -1,0 +1,7 @@
+C:\Users\Raphael\source\repos\Exercicios\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Raphael\source\repos\Exercicios\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Raphael\source\repos\Exercicios\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Raphael\source\repos\Exercicios\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\Raphael\source\repos\Exercicios\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Raphael\source\repos\Exercicios\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Raphael\source\repos\Exercicios\Calculadora\obj\Debug\Calculadora.pdb
